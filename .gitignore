@@ -47,6 +47,7 @@ atlassian*
 /vendor
 /generated
 /node_modules
+/app/etc/env.php
 
 .php_cs
 .php_cs.cache
